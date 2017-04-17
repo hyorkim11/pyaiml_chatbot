@@ -28,9 +28,19 @@ Simple python AIML chatbot for basic weather information.
 	It utilizes a GET request call to Google Geocoding API
 	to capture city geocodes and Dark Sky API to capture
 	weather data.
-	The utilized AIML files were modified by the Faculty and
+	Some of the AIML files were modified by the Faculty and
 	Staff at the School of Information of SI106.
-
+	I do not own any rights to any of the AIML files included
+	in this project.
+	##############################
+	PyAIML -- The Python AIML Interpreter
+	Original Author: Cort Stratton (cort@users.sourceforge.net)
+	web: http://pyaiml.sourceforge.net/
+	PyAIML is an interpreter for AIML
+	(the Artificial Intelligence Markup Language), implemented
+	entirely in standard Python. It strives for simple, austere,
+	100% compliance with the AIML 1.0.1 standard, no less and no more.
+	##############################
 
 ## GOOGLE GEOCIDING API:
 	Standard calls with a sample full request URL:
