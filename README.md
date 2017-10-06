@@ -76,3 +76,11 @@ Simple python AIML chatbot for basic weather information.
 
 	Calculating Rain Probabilities:
 	- There is a section on this calculation on the 'spec.pdf'
+
+## DISCLAIMER:
+	if you are a student at the University of Michigan and are
+	looking to refer to my written code, remember not to copy
+	and paste. And by downloading or even referring to my code,
+	you agree to take all responsibility with our school's
+	academic integrity guidelines. Simply put, its your fault
+	if you get caught cheating; not mine. :)
